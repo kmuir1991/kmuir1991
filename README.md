@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmuir1991
-- 👀 I’m interested in gaining UX writing experience
-- 🌱 I’m currently learning UX writing & design
+- 👀 I’m interested in UX writing
+- 🌱 I’m currently learning UX writing and design
 - 💞️ I’m looking to collaborate on projects that require help creating & editing microcopy
 - 📫 How to reach me: kate.muir@outlook.com
 
