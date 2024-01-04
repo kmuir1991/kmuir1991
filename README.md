@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kate.
-- 👀 UX Writer, Content Designer, Content Strategist.
-- 🌱 Word nerd designing stress-free digital experiences.
+- 👀 UX Writer, Content Designer, Content Strategist
 - 📫 How to reach me: kate.muir@outlook.com
 
 <!---
